@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Próximos desarrollos · ARCO</title>
+<meta name="description" content="Desarrollo pendiente de la herramienta operativa de ARCO.">
+<link rel="icon" href="assets/img/favicon.png" type="image/png">
+<link rel="preload" href="assets/fonts/montserrat-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/estilos.css">
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+<header class="cabecera">
+  <div class="contenedor">
+    <a class="marca" href="index.html"><img src="assets/img/logo-arco.png" alt="ARCO" width="58" height="42"><span>Acelerador de Reciclaje Colaborativo en Origen</span></a>
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu-principal">Menú</button>
+    <nav class="nav" id="menu-principal" aria-label="Secciones del portal"><ul><li><a href="index.html">Inicio</a></li><li><a href="recorrido.html">Recorrido</a></li><li><a href="investigacion.html">Investigación</a></li><li><a href="propuesta.html">Propuesta</a></li><li><a href="mvp.html">MVP</a></li><li><a href="galeria.html">Galería</a></li><li><a href="documentos.html">Documentos</a></li><li><a href="equipo.html">Equipo</a></li><li><a href="desarrollo.html" aria-current="page">Próximos desarrollos</a></li></ul></nav>
+  </div>
+</header>
+<main id="contenido">
+<section class="contenedor cabeza-pagina"><h1>Próximos desarrollos</h1><p class="lead">Propuesta de trabajo para la herramienta operativa. No tiene fechas ni compromisos asumidos.</p></section>
+<section class="contenedor" style="padding-bottom:40px"><div class="grilla g2" style="align-items:start">
+<ol class="tiempo"><li class="hito"><span class="fecha">Pendiente</span><h3>Definición de requisitos y modelo de datos</h3><p class="small">Qué se registra, quién lo registra y cómo se relaciona cada registro con el código de lote. Incluye consentimiento y protección de datos personales (Ley N.º 18.331).</p></li><li class="hito"><span class="fecha">Pendiente</span><h3>Formularios y registro de lotes</h3><p class="small">Formulario de operación en el edificio y formulario de recepción del gestor.</p></li><li class="hito"><span class="fecha">Pendiente</span><h3>Gestión de comprobantes y estados</h3><p class="small">Carpeta de comprobantes y estados del material: depositado, retirado, recibido, clasificado y valorizado.</p></li><li class="hito"><span class="fecha">Pendiente</span><h3>Tablero y reportes</h3><p class="small">Consulta para el equipo y resumen semanal agregado para el edificio, sin datos personales.</p></li><li class="hito"><span class="fecha">Pendiente</span><h3>Pruebas técnicas y validación con usuarios</h3><p class="small">Pruebas con lotes simulados y luego con residentes, recolector y gestor reales.</p></li><li class="hito"><span class="fecha">Pendiente</span><h3>Documentación y ajustes</h3><p class="small">Registro de decisiones técnicas y ajustes a partir de lo aprendido en el piloto.</p></li></ol>
+<div>
+<div class="tarjeta lima"><h3>Dónde se incorporará en el repositorio</h3><p class="small">El repositorio reserva tres carpetas, separadas del portal: <code>src/</code> para el código, <code>tests/</code> para las pruebas y <code>docs/tecnica/</code> para la documentación técnica. Hoy solo contienen un archivo README que explica su propósito. No hay código implementado.</p></div>
+<div class="tarjeta" style="margin-top:20px"><h3>Antes de desarrollar</h3><p class="small">Los documentos del proyecto priorizan conseguir evidencia de campo: entrevistar gestores, administradores y vecinos, y evaluar un edificio candidato. La herramienta debería responder a lo que el piloto muestre.</p></div>
+</div></div></section>
+</main>
+<footer class="pie-sitio">
+  <div class="contenedor fila">
+    <div>
+      <p><span class="estado">Versión inicial · En evolución</span></p>
+      <p>Este repositorio reúne el proceso y los materiales de ARCO y queda preparado para incorporar progresivamente el código, las pruebas y la documentación técnica del MVP. El video muestra una demostración conceptual; la herramienta operativa aún no está implementada.</p>
+    </div>
+    <div>
+      <p><strong>ARCO</strong> es un proyecto de equipo realizado en el marco del Diplomado en Gobernabilidad e Innovación Pública, CAF – Universidad de Montevideo, 2026.</p>
+      <p>Las cifras de la encuesta son exploratorias. Las piezas conceptuales y la demostración con datos simulados se identifican como tales en cada sección.</p>
+    </div>
+  </div>
+</footer>
+<script src="assets/js/sitio.js"></script>
+</body>
+</html>

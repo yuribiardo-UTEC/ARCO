@@ -1,0 +1,32 @@
+ARCO · MVP operativo — Cómo funcionaría
+Guion de locución y subtítulos de la demostración conceptual (datos simulados).
+Duración: 2:00. Voz sintética en español de Argentina (modelo Piper es_AR-daniela-high).
+
+0:00.60 - 0:04.42  ARCO propone que cada lote de material separado deje un registro.
+0:05.20 - 0:08.20  Y que el edificio sepa qué pasó con ese material.
+0:10.20 - 0:15.37  La herramienta se apoya en dos formularios y una planilla central, unida por el código de lote,
+0:15.47 - 0:17.71  una carpeta de comprobantes y un tablero.
+0:17.81 - 0:21.70  Es una propuesta de interfaz: podría empezar con formularios y planillas.
+0:22.20 - 0:25.25  El operador escanea el cartel del edificio con su celular.
+0:25.35 - 0:29.67  Ese QR solo abre el formulario: no pesa ni identifica residuos.
+0:29.77 - 0:33.80  Completa el edificio, el material, la fecha y quién es responsable.
+0:33.90 - 0:39.70  El lote recibe su código: ARCO-E01-001. Lo acompaña durante todo el circuito.
+0:40.20 - 0:44.66  Antes del retiro se controla la calidad. La lectura de la balanza se anota a mano.
+0:46.00 - 0:51.35  12 kg depositados, 2 kg de rechazo separados en el edificio: se retiran 10 kg.
+0:51.60 - 0:56.48  La foto es opcional. El operador guarda el retiro, en esta demo de forma simulada.
+0:57.20 - 1:00.85  El gestor abre un segundo formulario con el mismo código de lote.
+1:02.60 - 1:08.64  Anota 10 kg recibidos, 9 kg aceptados y 1 kg rechazado, y adjunta un comprobante de ejemplo.
+1:08.74 - 1:12.18  Al guardar, el tablero muestra: recepción documentada.
+1:14.20 - 1:18.83  En el tablero, el equipo abre la ficha del lote con sus registros y comprobantes.
+1:19.60 - 1:22.54  El equipo controla que los registros concuerden.
+1:23.00 - 1:26.68  Es el mismo material pasando por cada etapa: los pesos no se suman.
+1:26.78 - 1:30.01  Aceptar el material no demuestra que ya fue reciclado.
+1:31.00 - 1:34.21  El destino posterior sigue pendiente de documentación.
+1:36.00 - 1:39.30  Cada semana, el referente prepara un resumen del edificio,
+1:39.40 - 1:42.40  con datos agregados y sin datos personales.
+1:42.50 - 1:46.23  Lo copia y lo comparte a mano, por WhatsApp o en la cartelera.
+1:51.00 - 1:54.46  Separar, registrar, verificar y compartir.
+1:55.00 - 1:59.70  Un edificio, un material, un gestor: la evidencia permite decidir cómo continuar.
+
+Datos simulados: 12 kg depositados; 2 kg de rechazo en el edificio; 10 kg retirados; 10 kg recibidos; 9 kg aceptados; 1 kg rechazado en el gestor; 3 kg de rechazo total.
+Los pesos corresponden al mismo material en distintas etapas y no se suman. La aceptación del material no demuestra que haya sido reciclado.

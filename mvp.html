@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cómo funcionaría el MVP · ARCO</title>
+<meta name="description" content="Demostración conceptual con datos simulados del MVP operativo de ARCO.">
+<link rel="icon" href="assets/img/favicon.png" type="image/png">
+<link rel="preload" href="assets/fonts/montserrat-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/estilos.css">
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+<header class="cabecera">
+  <div class="contenedor">
+    <a class="marca" href="index.html"><img src="assets/img/logo-arco.png" alt="ARCO" width="58" height="42"><span>Acelerador de Reciclaje Colaborativo en Origen</span></a>
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu-principal">Menú</button>
+    <nav class="nav" id="menu-principal" aria-label="Secciones del portal"><ul><li><a href="index.html">Inicio</a></li><li><a href="recorrido.html">Recorrido</a></li><li><a href="investigacion.html">Investigación</a></li><li><a href="propuesta.html">Propuesta</a></li><li><a href="mvp.html" aria-current="page">MVP</a></li><li><a href="galeria.html">Galería</a></li><li><a href="documentos.html">Documentos</a></li><li><a href="equipo.html">Equipo</a></li><li><a href="desarrollo.html">Próximos desarrollos</a></li></ul></nav>
+  </div>
+</header>
+<main id="contenido">
+<section class="contenedor cabeza-pagina"><h1>Cómo funcionaría el MVP</h1><p class="lead">Demostración conceptual del registro y seguimiento de un lote de material, desde el edificio hasta su recepción.</p></section>
+<section class="contenedor" style="padding-bottom:40px">
+ <p><span class="etiqueta simulado">Demostración conceptual · Datos simulados</span></p>
+ <div class="video-marco" style="margin-top:12px">
+  <video controls preload="none" playsinline poster="assets/video/arco-mvp-demo-poster.jpg" aria-describedby="pie-mvp">
+   <source src="assets/video/arco-mvp-demo.mp4" type="video/mp4">
+   <track kind="subtitles" srclang="es" label="Español" src="assets/video/arco-mvp-demo.vtt">
+   Tu navegador no puede reproducir este video. <a href="assets/video/arco-mvp-demo.mp4">Descargar el video (MP4)</a>.
+  </video>
+ </div>
+ <p class="pie" id="pie-mvp">Video de 2 minutos con locución en voz sintética y subtítulos incorporados en la imagen. Representa una propuesta de interfaz: la primera implementación podría usar formularios y planillas. <strong>La herramienta no existe todavía y el video no muestra un piloto ejecutado.</strong> <a href="documentos/2026-11-03_guion-demo-mvp.txt">Guion y subtítulos (texto)</a>.</p>
+</section>
+<section class="seccion blanca"><div class="contenedor">
+ <h2>Qué muestra el video</h2>
+ <ol class="circuito">
+  <li><b>Creación del lote</b><span>Un QR en el edificio abre el formulario. Se genera el código ARCO-E01-001, que acompaña al lote.</span></li>
+  <li><b>Registro manual de pesos</b><span>La lectura de la balanza se anota a mano: 12 kg depositados, 2 kg de rechazo, 10 kg retirados.</span></li>
+  <li><b>Recepción del gestor</b><span>Segundo formulario con el mismo código: 10 kg recibidos, 9 aceptados, 1 rechazado y un comprobante de ejemplo.</span></li>
+  <li><b>Revisión de comprobantes</b><span>El equipo revisa que los registros coincidan. El destino posterior queda pendiente y la valorización, sin comprobar.</span></li>
+  <li><b>Resumen al edificio</b><span>Datos agregados, sin datos personales. El referente lo copia y lo comparte a mano.</span></li>
+ </ol>
+ <div class="aviso" style="margin-top:22px">Los pesos corresponden al <strong>mismo material</strong> en distintas etapas y no se suman. Material retirado, recibido, aceptado y efectivamente valorizado son cosas distintas: <strong>aceptar el material no demuestra que ya fue reciclado</strong>.</div>
+</div></section>
+<section class="seccion"><div class="contenedor">
+ <h2>Capturas de la demostración</h2>
+ <div class="grilla g2"><figure class="tarjeta" style="padding:0;overflow:hidden;margin:0"><img src="assets/img/capturas/demo-mvp-33.jpg" alt="Formulario de registro de lote en un celular, con el código ARCO-E01-001 generado." width="1280" height="720" loading="lazy" decoding="async"><figcaption class="small muted" style="padding:10px 14px">Paso 1: lote creado. Guardado marcado como simulado.</figcaption></figure><figure class="tarjeta" style="padding:0;overflow:hidden;margin:0"><img src="assets/img/capturas/demo-mvp-66.jpg" alt="Formulario de recepción del gestor con 10, 9 y 1 kg." width="1280" height="720" loading="lazy" decoding="async"><figcaption class="small muted" style="padding:10px 14px">Paso 3: recepción del gestor con comprobante simulado.</figcaption></figure><figure class="tarjeta" style="padding:0;overflow:hidden;margin:0"><img src="assets/img/capturas/demo-mvp-82.jpg" alt="Tablero con la ficha del lote, sus estados y la revisión de coincidencia." width="1280" height="720" loading="lazy" decoding="async"><figcaption class="small muted" style="padding:10px 14px">Paso 4: estados y revisión de coincidencia.</figcaption></figure><figure class="tarjeta" style="padding:0;overflow:hidden;margin:0"><img src="assets/img/capturas/demo-mvp-104.jpg" alt="Resumen semanal del edificio con 12, 10, 9 y 3 kg." width="1280" height="720" loading="lazy" decoding="async"><figcaption class="small muted" style="padding:10px 14px">Paso 5: resumen semanal agregado.</figcaption></figure>
+ </div>
+</div></section>
+</main>
+<footer class="pie-sitio">
+  <div class="contenedor fila">
+    <div>
+      <p><span class="estado">Versión inicial · En evolución</span></p>
+      <p>Este repositorio reúne el proceso y los materiales de ARCO y queda preparado para incorporar progresivamente el código, las pruebas y la documentación técnica del MVP. El video muestra una demostración conceptual; la herramienta operativa aún no está implementada.</p>
+    </div>
+    <div>
+      <p><strong>ARCO</strong> es un proyecto de equipo realizado en el marco del Diplomado en Gobernabilidad e Innovación Pública, CAF – Universidad de Montevideo, 2026.</p>
+      <p>Las cifras de la encuesta son exploratorias. Las piezas conceptuales y la demostración con datos simulados se identifican como tales en cada sección.</p>
+    </div>
+  </div>
+</footer>
+<script src="assets/js/sitio.js"></script>
+</body>
+</html>

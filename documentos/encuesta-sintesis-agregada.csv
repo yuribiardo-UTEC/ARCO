@@ -1,0 +1,69 @@
+"# Síntesis agregada de la encuesta ARCO. Formulario en línea, 30/08/2026 a 01/09/2026, 111 respuestas con consentimiento. Muestra exploratoria, no representativa. Sin datos personales ni respuestas abiertas."
+pregunta,respuestas_validas,opcion,cantidad,porcentaje_sobre_respuestas_validas,respuesta_multiple
+1. Rango de edad,111,45–59,44,39.6,no
+1. Rango de edad,111,30–44,33,29.7,no
+1. Rango de edad,111,60 o más,24,21.6,no
+1. Rango de edad,111,18–29,10,9.0,no
+2. Vínculo con la vivienda,111,Propietario/a,63,56.8,no
+2. Vínculo con la vivienda,111,Inquilino/a,38,34.2,no
+2. Vínculo con la vivienda,111,Otro,10,9.0,no
+3. Tipo de vivienda,111,Edificio vertical,60,54.1,no
+3. Tipo de vivienda,111,Vivienda individual,25,22.5,no
+3. Tipo de vivienda,111,Edificio o complejo horizontal,20,18.0,no
+3. Tipo de vivienda,111,Otro,4,3.6,no
+3. Tipo de vivienda,111,Cooperativa de vivienda,2,1.8,no
+4. ¿Separás algún residuo reciclable?,111,No,39,35.1,no
+4. ¿Separás algún residuo reciclable?,111,A veces,37,33.3,no
+4. ¿Separás algún residuo reciclable?,111,Siempre,26,23.4,no
+4. ¿Separás algún residuo reciclable?,111,"Lo hacía, pero dejé de hacerlo",9,8.1,no
+5. Residuos que separa (respuesta múltiple),111,Plásticos,53,47.7,sí
+5. Residuos que separa (respuesta múltiple),111,No separo residuos,42,37.8,sí
+5. Residuos que separa (respuesta múltiple),111,Papel y cartón,39,35.1,sí
+5. Residuos que separa (respuesta múltiple),111,Vidrio,34,30.6,sí
+5. Residuos que separa (respuesta múltiple),111,Orgánicos,15,13.5,sí
+5. Residuos que separa (respuesta múltiple),111,Metales / latas,14,12.6,sí
+5. Residuos que separa (respuesta múltiple),111,Aceite usado,12,10.8,sí
+5. Residuos que separa (respuesta múltiple),111,Otros,3,2.7,sí
+6. Qué hace con lo que separa,111,No separo,39,35.1,no
+6. Qué hace con lo que separa,111,Los llevo a un contenedor o ecopunto,30,27.0,no
+6. Qué hace con lo que separa,111,Los deposito en contenedores del edificio,21,18.9,no
+6. Qué hace con lo que separa,111,Otro,11,9.9,no
+6. Qué hace con lo que separa,111,Los retiro cuando pasa un servicio de recolección,6,5.4,no
+6. Qué hace con lo que separa,111,"Los entrego a una persona, cooperativa o gestor",4,3.6,no
+7. Principal dificultad para separar,111,No tengo suficiente espacio,26,23.4,no
+7. Principal dificultad para separar,111,No confío en que permanezcan separados,17,15.3,no
+7. Principal dificultad para separar,111,El sistema del edificio no facilita la separación,15,13.5,no
+7. Principal dificultad para separar,111,No encuentro ninguna dificultad importante,15,13.5,no
+7. Principal dificultad para separar,111,Los puntos de entrega son incómodos o están lejos,13,11.7,no
+7. Principal dificultad para separar,111,Otra,7,6.3,no
+7. Principal dificultad para separar,111,Requiere demasiado tiempo o esfuerzo,6,5.4,no
+7. Principal dificultad para separar,111,No sé exactamente qué residuos se pueden separar,5,4.5,no
+7. Principal dificultad para separar,111,La frecuencia de retiro no es adecuada,4,3.6,no
+7. Principal dificultad para separar,111,No sé qué ocurre con los residuos después,3,2.7,no
+8. ¿Dejó de separar alguna vez después de haber comenzado?,111,Sí,51,45.9,no
+8. ¿Dejó de separar alguna vez después de haber comenzado?,111,No,39,35.1,no
+8. ¿Dejó de separar alguna vez después de haber comenzado?,111,Nunca separé regularmente,21,18.9,no
+9. Cuánto sabe sobre qué ocurre con los materiales (1 a 5),111,1,43,38.7,no
+9. Cuánto sabe sobre qué ocurre con los materiales (1 a 5),111,2,16,14.4,no
+9. Cuánto sabe sobre qué ocurre con los materiales (1 a 5),111,3,30,27.0,no
+9. Cuánto sabe sobre qué ocurre con los materiales (1 a 5),111,4,12,10.8,no
+9. Cuánto sabe sobre qué ocurre con los materiales (1 a 5),111,5,10,9.0,no
+"10. Importancia de conocer si el material fue retirado, recibido y aprovechado (1 a 5)",111,1,7,6.3,no
+"10. Importancia de conocer si el material fue retirado, recibido y aprovechado (1 a 5)",111,2,3,2.7,no
+"10. Importancia de conocer si el material fue retirado, recibido y aprovechado (1 a 5)",111,3,18,16.2,no
+"10. Importancia de conocer si el material fue retirado, recibido y aprovechado (1 a 5)",111,4,34,30.6,no
+"10. Importancia de conocer si el material fue retirado, recibido y aprovechado (1 a 5)",111,5,49,44.1,no
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Recipientes mejor identificados,45,40.5,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Un punto de separación dentro del edificio,41,36.9,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Mayor frecuencia o previsibilidad del retiro,25,22.5,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Instrucciones más claras,23,20.7,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Información sobre qué pasó con los residuos,20,18.0,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Coordinación entre vecinos y administración,18,16.2,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Reconocimiento o incentivos,17,15.3,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Menos categorías para separar,12,10.8,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Otro,12,10.8,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,No necesitaría ningún cambio,9,8.1,sí
+11. Qué facilitaría separar de forma habitual (respuesta múltiple),111,Recordatorios,5,4.5,sí
+13. Disposición a participar en una prueba piloto,111,Tal vez,49,44.1,no
+13. Disposición a participar en una prueba piloto,111,Sí,36,32.4,no
+13. Disposición a participar en una prueba piloto,111,No,26,23.4,no
